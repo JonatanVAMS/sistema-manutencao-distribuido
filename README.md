@@ -95,7 +95,4 @@ Os valores padrão servem apenas para demonstração; troque-os fora do ambiente
 | DELETE | `/ordens/{id}` | `ordens:delete` |
 | GET | `/auditoria` | `auditoria:read` |
 
-## Uso de IA
 
-Este trabalho foi desenvolvido com apoio de IA (permitido no enunciado), que adaptou o código do roteiro
-para o novo domínio; o funcionamento foi validado manualmente.
